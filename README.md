@@ -8,3 +8,4 @@ Commit 4:Practicing Git commands. git add README.md git commit-mAdd Git practice
 Commit 5: Completed commit history practice. git add README.md git commit -m Complete commit history practice
 Commit 4: Practice Git commands.
 Commit 5: Completed commit history practice.
+ Midterm source files demo
